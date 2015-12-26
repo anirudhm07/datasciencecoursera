@@ -5,3 +5,5 @@ Now let me see if I can commit without adding the file.
 It seems I cannot commit without adding the file.
 
 Now I successfully pulled. Need to see how to push the items to the remoste repository.
+
+Super now I successfully pushed the files to the remote repository after pulling it.
